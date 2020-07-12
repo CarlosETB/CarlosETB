@@ -1,4 +1,4 @@
-### Hi there 👋
+![github stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true">
 
 # Carlos Tonholi
 [![Twitter Badge](https://img.shields.io/badge/-@carlos_tonholi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlos_tonholi)](https://twitter.com/carlos_tonholi) 
@@ -16,5 +16,3 @@
 [![React-Native](https://img.shields.io/badge/-React_Native-05a5d1?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true)
