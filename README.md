@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-carlostonholi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/carlostonholi/)
 [![Gmail Badge](https://img.shields.io/badge/-carloseduardotonholi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardotonholi@gmail.com)](mailto:carloseduardotonholi@gmail.com)
 
+### I'm Hugo Duarte. I'm a full stack developer computer
+
 ## Conhecimentos e Ferramentos
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=javascript)
