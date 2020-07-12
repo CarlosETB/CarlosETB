@@ -1,4 +1,4 @@
-[![github stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true">]
+[![github stats](<img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true">)]
 
 # Carlos Tonholi
 [![Twitter Badge](https://img.shields.io/badge/-@carlos_tonholi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlos_tonholi)](https://twitter.com/carlos_tonholi) 
