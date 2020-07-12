@@ -5,7 +5,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/carlostonholi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardotonholi@gmail.com)](mailto:carloseduardotonholi@gmail.com) 
 
-I'm Carlos Tonholi. I'm a front-developer developer
+- Front-End developer
+- Web / Mobile developer 
+- Analysis and systems development Student
 
 ## Conhecimentos e Ferramentos
 
