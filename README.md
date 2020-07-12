@@ -12,6 +12,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
 [![React](https://img.shields.io/badge/-React-58c6e4?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
+[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB/)
 
