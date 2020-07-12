@@ -10,11 +10,7 @@
 - Web / Mobile developer 
 - Analysis and systems development Student
 
-
-
-
-
-
+&nbsp;&nbsp;&nbsp;
 
 ## Conhecimentos e Ferramentos
 
