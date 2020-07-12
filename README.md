@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlos_tonholi)](https://twitter.com/carlos_tonholi) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/carlostonholi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardotonholi@gmail.com)](mailto:carloseduardotonholi@gmail.com) 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/carlostonholi/)](https://t.me/carlostonholi/)
+[![Telegram](https://img.shields.io/badge/-Telegram-32afed?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/carlostonholi/)](https://t.me/carlostonholi/)
 
 - Front-End developer
 - Web / Mobile developer 
