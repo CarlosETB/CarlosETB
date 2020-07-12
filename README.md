@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carloseduardotonholi@gmail.com)](mailto:carloseduardotonholi@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-27a7e5?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/carlostonholi/)](https://t.me/carlostonholi/)
 
+## About me
 - Front-End developer
 - Web / Mobile developer 
 - Analysis and systems development Student
