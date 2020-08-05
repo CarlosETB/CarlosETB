@@ -25,8 +25,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <p justify="center">
-    <img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true">
-    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact">
 </p>
 
 
