@@ -25,3 +25,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosETB&repo=github-readme-stats&show_owner=true)](https://github.com/CarlosETB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact)](https://github.com/CarlosETB/github-readme-stats)
