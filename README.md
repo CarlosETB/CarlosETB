@@ -23,3 +23,12 @@
 [![React-Native](https://img.shields.io/badge/-React_Native-05a5d1?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&hide=html&layout=compact&count_private=true&theme=dracula" /></td>
+        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nataliawinter&count_private=true&theme=dracula" /></td>
+    </tr>  
+  </table>
+</center>
