@@ -1,6 +1,7 @@
 # Carlos Tonholi
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true"> 
+<img src="https://komarev.com/ghpvc/?username=CarlosETB&color=green" align="right" alt="CarlosETB" />
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlos_tonholi)](https://twitter.com/carlos_tonholi) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/carlostonholi/)
@@ -27,8 +28,6 @@ Hi, I'm Carlos.
 [![React-Native](https://img.shields.io/badge/-React_Native-05a5d1?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-
-<img src="https://komarev.com/ghpvc/?username=CarlosETB&color=green" align="right" alt="CarlosETB" />
 
 <!--  
   <center>
