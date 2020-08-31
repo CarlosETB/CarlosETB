@@ -11,7 +11,7 @@
 ```diff
 Hi, I'm Carlos.
 
-• Front-End developer
+• Front - End developer
 • Web / Mobile developer 
 • Analysis and systems development Student
 ```
