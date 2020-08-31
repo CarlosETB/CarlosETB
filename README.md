@@ -1,5 +1,4 @@
-# Carlos Tonholi <img src="https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat" align="right" alt="CarlosETB" />
-[![Profile View](https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat)](https://github.com/CarlosETB)
+# Carlos Tonholi [![Profile View](https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat)](https://github.com/CarlosETB)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true"> 
 
