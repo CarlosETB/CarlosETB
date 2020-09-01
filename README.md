@@ -31,8 +31,8 @@ Hi, I'm Carlos.
   <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true" />
   <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true)]
-[![Telegram](https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true)
 
 <!--
 <center>
