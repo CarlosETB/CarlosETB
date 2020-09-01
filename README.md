@@ -30,9 +30,9 @@ Hi, I'm Carlos.
 
   <center>
     <table>
-      <tr>
+     
           <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true" />
           <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true" />
-      </tr>  
+      
     </table>
   </center>
