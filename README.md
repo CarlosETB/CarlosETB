@@ -28,7 +28,6 @@ Hi, I'm Carlos.
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
-<!--  
   <center>
     <table>
       <tr>
@@ -37,4 +36,3 @@ Hi, I'm Carlos.
       </tr>  
     </table>
   </center>
--->
