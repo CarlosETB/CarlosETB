@@ -30,13 +30,13 @@ Hi, I'm Carlos.
 
 <center>
   <table>
-    <td>
-      <tr>
+    <tr>
+      <td>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true">  
-      </tr>
-      <tr>
+      </td>
+      <td>
         <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true">  
-      </tr>
-     </td>
+      </td>
+     </tr>
   </table>
 </center>
