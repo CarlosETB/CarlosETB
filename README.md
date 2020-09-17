@@ -29,8 +29,6 @@ Hi, I'm Carlos.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <center>    
-  ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true)
-  
-  <img align='right' width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true">  
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true">  
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true">  
 </center>
