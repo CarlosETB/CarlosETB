@@ -32,3 +32,7 @@ Hi, I'm Carlos.
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true">  
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true">  
 </center>
+
+
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=singhkshitij&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
