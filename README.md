@@ -29,6 +29,7 @@ Hi, I'm Carlos.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <center>
+    <!--
     <table align="center">
       <tr>
           <td>
@@ -38,4 +39,8 @@ Hi, I'm Carlos.
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true" />               </td>
       </tr>  
     </table>
+-->
+    
+![Github stats](https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true)
 </center>
