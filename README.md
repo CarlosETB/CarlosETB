@@ -34,7 +34,6 @@ Hi, I'm Carlos.
       <tr>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&hide=contribs,prs&show_icons=true&hide_border=true">  
       </tr>
-      
       <tr>
         <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&layout=compact&hide_border=true">  
       </tr>
