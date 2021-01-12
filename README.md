@@ -29,8 +29,6 @@ Hi, I'm Carlos.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Redux](https://img.shields.io/badge/-Redux-785bbc?style=flat-square&logo=redux&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
-[![Redux](https://img.shields.io/badge/gadget-Raspberry%20Pi-pink.svg?logo=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fredux-saga-logo-png-transparent.png&f=1&nofb=1)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-
 <!---
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 -->
