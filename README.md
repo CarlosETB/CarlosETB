@@ -19,18 +19,18 @@ Hi, I'm Carlos.
 ## Knowledge and Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=javascript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=typescript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=typescript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=css)
-[![SASS](https://img.shields.io/badge/-SASS-ce679a?style=flat-square&logo=sass&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=css)
-[![React](https://img.shields.io/badge/-React-58c6e4?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=css)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![React-Native](https://img.shields.io/badge/-React_Native-05a5d1?style=flat-square&logo=react&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-[![Redux](https://img.shields.io/badge/-Redux-785bbc?style=flat-square&logo=redux&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-[![Yarn](https://img.shields.io/badge/-Yarn-2188B6?style=flat-square&logo=Yarn&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
+[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <!---
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
