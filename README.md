@@ -7,7 +7,7 @@
 
 ## About me
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
 
 ```diff
 Hi, I'm Carlos.
