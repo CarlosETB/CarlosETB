@@ -1,6 +1,6 @@
 # Carlos Tonholi <img align='right' src="https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat"> 
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true)
+<img align='right' width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true">  
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/carlos_tonholi)](https://twitter.com/carlos_tonholi) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlostonholi/)](https://www.linkedin.com/in/carlostonholi/)
