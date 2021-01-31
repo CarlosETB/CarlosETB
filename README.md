@@ -6,6 +6,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/carlostonholi/)](https://t.me/carlostonholi/)
 
 ## About me
+
+<img align='right' width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula"> 
+
 ```diff
 Hi, I'm Carlos.
 
@@ -13,8 +16,6 @@ Hi, I'm Carlos.
 • Web / Mobile developer 
 • Analysis and systems development Student
 ```
-
-<img align='right' width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula">  
 
 ## Knowledge and Tools
 
