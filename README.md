@@ -46,12 +46,10 @@ Hi, I'm Carlos.
           <td>
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" />               
           </td>
-      </tr>  
-      <tr>
           <td>
              <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula" />           
           </td>
-      </tr>
+      </tr>  
     </table>
 </center>
 
