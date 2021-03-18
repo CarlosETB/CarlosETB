@@ -48,7 +48,7 @@ Hi, I'm Carlos.
           </td>
           
           <td>
-          <img width="400px" height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
+          <img width="400px" height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" /> 
           </td>
       </tr>  
     </table>
