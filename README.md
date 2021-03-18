@@ -40,11 +40,11 @@ Hi, I'm Carlos.
 <center>
     <table align="center">
       <tr>
-          <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
-              <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
+          <td width="50%">
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
           </td>
-          <td>
+          <td width="50%">
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" />         
           </td>
       </tr>  
