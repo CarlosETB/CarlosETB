@@ -1,4 +1,4 @@
-# Carlos Tonholi <img align='right' src="https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat-square"> 
+# Carlos Tonholi <img align='right' src="https://komarev.com/ghpvc/?username=CarlosETB&color=green&style=flat-square" /> 
 
 <img width="400px" height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
 
@@ -44,11 +44,7 @@ Hi, I'm Carlos.
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
           </td>
           
-          <td>         
-            <img align='right' width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula" /> 
-           </td>
           
-    
       </tr>  
     </table>
 </center>
