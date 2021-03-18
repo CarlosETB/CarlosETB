@@ -49,7 +49,7 @@ Hi, I'm Carlos.
       </tr>  
       <tr>
           <td>
-             <img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula" />           
+             <img width="800px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula" />           
           </td>
       </tr>
     </table>
