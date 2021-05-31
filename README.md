@@ -47,10 +47,6 @@ Hi, I'm Carlos.
               <img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&hide_border=true&theme=dracula" />    
           </td>
       </tr> 
-        
-        <tr>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula&layout=compact" /> 
-        </tr>
     </table>
 </center>
 
