@@ -57,10 +57,8 @@ Hi, I'm Carlos.
 <center>
     ## About me
 
-```diff
-Always looking for knowledge and experience.
-Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
-```
+    Always looking for knowledge and experience.
+    Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
     
     <table align="center">
       <tr>
