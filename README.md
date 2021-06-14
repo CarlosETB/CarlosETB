@@ -10,7 +10,7 @@
         Python | JavaScript | NodeJS | ReactJS
   </span>
 
-
+<br />
 <center> 
     <table align="center">
       <tr>
