@@ -38,10 +38,10 @@ Hi, I'm Carlos.
     <table align="center">
       <tr>
           <td align="center">
-              <img width="400px" height='200px' align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
+              <img width="400px" height='300px' align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
           </td>
           <td align="center">
-              <img width="400px" height='200px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula&layout=compact" />    
+              <img width="400px" height='300px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula&layout=compact" />    
           </td>
       </tr> 
     </table>
