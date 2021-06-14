@@ -49,19 +49,19 @@ Hi, I'm Carlos.
 
   
 <img height="250px" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdni.iconscout.com%2Fillustration%2Ffree%2Fthumb%2Fdeveloper-2080968-1750498.png&f=1&nofb=1" />
-​
+
 # Guido Eduardo
-​
+
 <span style='display:flex'>
-​
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guido-eduardo/)
-​
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidoeduardonsilva@gmail.com/)
-​
+
 </span>
-​
+
 <p style="font-size:18px">Systems Analyst && Artist | Fullstack Developer at Icaro Tech</p>
-​
+
 <center>
     <table align="center">
       <tr>
@@ -75,12 +75,6 @@ Hi, I'm Carlos.
     </table>
 </center>
 
-Guido Eduardo
-LinkedIn
-
-Gmail
-
-Systems Analyst && Artist | Fullstack Developer at Icaro Tech
 
 	
 
