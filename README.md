@@ -51,6 +51,11 @@ Hi, I'm Carlos.
 
  <h1>Guido Eduardo</h1>
  <span>Systems Analyst && Artist | Fullstack Developer</span>
+ 
+  <span>
+        Always looking for knowledge and experience.
+        Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
+  </span>
 
 
 <center> 
