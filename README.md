@@ -59,6 +59,8 @@ Always looking for knowledge and experience.
 Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
 ```
 
+<br />
+
 <center>
     <table align="center">
       <tr>
