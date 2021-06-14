@@ -46,5 +46,3 @@ Hi, I'm Carlos.
       </tr> 
     </table>
 </center>
-
- <img height="250px" align='right' src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdni.iconscout.com%2Fillustration%2Ffree%2Fthumb%2Fdeveloper-2080968-1750498.png&f=1&nofb=1" />
