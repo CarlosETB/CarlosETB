@@ -41,11 +41,11 @@ Hi, I'm Carlos.
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
           </td>
           <td align="center">
-              <img width="400px" align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdni.iconscout.com%2Fillustration%2Ffree%2Fthumb%2Fdeveloper-2080968-1750498.png&f=1&nofb=1" />    
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" />    
           </td>
       </tr> 
     </table>
 </center>
 
-<img width="400px" height="250px" align="right" src="" /> 
+<img width="400px" height="250px" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdni.iconscout.com%2Fillustration%2Ffree%2Fthumb%2Fdeveloper-2080968-1750498.png&f=1&nofb=1" /> 
 
