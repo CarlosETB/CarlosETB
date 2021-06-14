@@ -54,16 +54,14 @@ Hi, I'm Carlos.
  <span>Systems Analyst && Artist | Fullstack Developer</span>
 </table>
 
-## About me
+<center>
+    ## About me
 
 ```diff
 Always looking for knowledge and experience.
 Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
 ```
-
-<br />
-
-<center>
+    
     <table align="center">
       <tr>
           <td align="center">
