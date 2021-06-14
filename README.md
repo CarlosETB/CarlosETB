@@ -47,5 +47,5 @@ Hi, I'm Carlos.
     </table>
 </center>
 
-<img width="400px" height="250px" align="right" src="https://iconscout.com/illustrations/developer" /> 
+<img width="400px" height="250px" align="right" src="https://cdni.iconscout.com/illustration/free/preview/developer-2080968-1750498.png?w=0&h=700" /> 
 
