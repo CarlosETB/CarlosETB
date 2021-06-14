@@ -6,7 +6,8 @@
  
   <span>
         Always looking for knowledge and experience.
-        Fullstack Developer | Python | JavaScript | NodeJS | ReactJS
+        <br />
+        Python | JavaScript | NodeJS | ReactJS
   </span>
 
 
