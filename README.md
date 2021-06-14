@@ -11,7 +11,7 @@
   </span>
 
 <center> 
-    <table align="center" style='marginTop:10px'>
+    <table align="center" style='marginTop:40px'>
       <tr>
           <td align="center">
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=GuidoEduardo&count_private=true&hide_border=true&theme=dracula" />
