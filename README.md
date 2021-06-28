@@ -45,6 +45,8 @@ Hi, I'm Carlos.
             </td>
         </tr>
     </table>
+   <img width="300px" height="230px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
+
     <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
 </center>
 
