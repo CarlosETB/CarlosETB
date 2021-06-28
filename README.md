@@ -44,6 +44,9 @@ Hi, I'm Carlos.
                 <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
         </tr>
+         <tr>
+              <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
+     </tr>
     </table>
     <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
 </center>
