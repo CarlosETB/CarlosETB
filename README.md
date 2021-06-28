@@ -38,7 +38,7 @@ Hi, I'm Carlos.
     <table align="center">
         <tr>
              <td align="right">
-                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula">
+                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula" />
             </td>
                   
              <td align="left">
