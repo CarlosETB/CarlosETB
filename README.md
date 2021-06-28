@@ -35,11 +35,16 @@ Hi, I'm Carlos.
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <center>    
-    <div>
-        <img width="47%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true" />
-        <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
-    </div>
-    <br /><br />
+   <table align="center">
+        <tr>
+            <td align="left">
+                <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true" />
+            </td>
+            <td align="right">
+                <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+            </td>
+        </tr>
+    </table>
     <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true" width="100%" />
 </center>
 
