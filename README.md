@@ -38,9 +38,6 @@ Hi, I'm Carlos.
 <center>    
     <table align="center">
         <tr>
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
-        </tr>
-        <tr>
             <td align="left">
                 <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true" />
             </td>
