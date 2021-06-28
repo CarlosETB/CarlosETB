@@ -39,9 +39,7 @@ Hi, I'm Carlos.
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
 </p>
 
-<center>  
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
-    
+<center>    
     <table align="center">
         <tr>
             <td align="left">
@@ -52,6 +50,7 @@ Hi, I'm Carlos.
             </td>
         </tr>
     </table>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
     <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true" width="100%" />
 </center>
 
