@@ -47,9 +47,7 @@ Hi, I'm Carlos.
         </td align="center">
       </tr> 
       <tr>
-        <td align="center">
-            <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-        </td align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
       </tr>
     </table>
 </center>
