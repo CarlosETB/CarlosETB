@@ -40,20 +40,11 @@ Hi, I'm Carlos.
     <table align="center">
       <tr>
         <td align="center">
-            <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+            <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
         </td align="center">
         <td align="center">
-            <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+            <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
         </td align="center">
-          
-          <td align="center">
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
-          </td>
-          <td align="center">
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula&layout=compact" />    
-          </td>
       </tr> 
     </table>
 </center>
-
-![Metrics](https://metrics.lecoq.io/CarlosETB?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
