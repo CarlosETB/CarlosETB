@@ -36,7 +36,7 @@ Hi, I'm Carlos.
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <table align="center" width="100%">  
-         <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
+         <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
 </table>      
 
 <center>    
