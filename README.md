@@ -35,8 +35,8 @@ Hi, I'm Carlos.
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
 <center>
-    <table align="center" width="100%">
-        <tr width="100%">
+    <table align="center">
+        <tr>
             <td align="left">
                 <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true" />
             </td>
