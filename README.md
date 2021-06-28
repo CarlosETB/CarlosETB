@@ -34,6 +34,8 @@ Hi, I'm Carlos.
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
+<img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
+
 <center>
     <table align="center">
       <tr>
