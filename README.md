@@ -39,9 +39,13 @@ Hi, I'm Carlos.
 <center>
     <table align="center">
       <tr>
-          <img width="800px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=html&count_private=true&hide_border=true&theme=dracula" /> 
-      </tr>
-      <tr>
+        <td align="center">
+            <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+        </td align="center">
+        <td align="center">
+            <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        </td align="center">
+          
           <td align="center">
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&count_private=true&hide_border=true&theme=dracula" />
           </td>
