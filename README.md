@@ -37,10 +37,10 @@ Hi, I'm Carlos.
 <center>      
      <table align="center">
       <tr>
-            <td align="left" style="border:none;">
+            <td align="left"  style='border-left:none;border-top:none'>
                 <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
             </td>
-            <td align="right" style='border:none;'>
+            <td align="right"  style='border-left:none;border-top:none'>
                 <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
         </tr>
