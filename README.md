@@ -46,7 +46,8 @@ Hi, I'm Carlos.
             <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
         </td align="center">
       </tr> 
-       
-        <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+      <tr>
+        <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+      </tr>
     </table>
 </center>
