@@ -40,6 +40,8 @@ Hi, I'm Carlos.
 </p>
 
 <center>  
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=6&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET" />
+    
     <table align="center">
         <tr>
             <td align="left">
