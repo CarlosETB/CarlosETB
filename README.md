@@ -34,7 +34,8 @@ Hi, I'm Carlos.
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
-<center>      
+<center>
+    <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
      <table align="center">
       <tr>
             <td align="left">
@@ -44,10 +45,6 @@ Hi, I'm Carlos.
                 <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
         </tr>
-         <tr>
-              <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
-     </tr>
     </table>
-    <img src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="100%" />
 </center>
 
