@@ -37,7 +37,7 @@ Hi, I'm Carlos.
 <center>
     <table align="center">
         <tr>
-            <td align="center" border=0>
+            <td align="left">
                 <img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true" />
             </td align="center">
             <td align="center">
