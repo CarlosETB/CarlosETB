@@ -34,7 +34,7 @@ Hi, I'm Carlos.
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
-<center>    
+<center width="100%">    
    <table align="center" width="100%">
         <tr>
             <td align="left">
