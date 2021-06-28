@@ -38,7 +38,7 @@ Hi, I'm Carlos.
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosETB-na&theme=nord&column=7)](https://github.com/CarlosETB/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosETB&theme=nord&column=7)](https://github.com/CarlosETB/github-profile-trophy)
 
 <center>  
     <table align="center">
