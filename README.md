@@ -34,13 +34,19 @@ Hi, I'm Carlos.
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <center>      
      <table align="center">
       <tr>
-            <td align="left" border="none!important">
+            <td align="left">
                 <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
             </td>
-            <td align="right" border="none!important">
+            <td align="right">
                 <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
         </tr>
