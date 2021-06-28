@@ -38,13 +38,13 @@ Hi, I'm Carlos.
    <table align="center">
         <tr>
             <td align="left">
-                <img height=150 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
+                <img height=100 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
             </td>
             <td align="right">
-                <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
+                <img height=100 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
            <td>
-               <img height=150 width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
+               <img height=100 width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
            </td>
         </tr>
     </table>
