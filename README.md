@@ -44,7 +44,7 @@ Hi, I'm Carlos.
                 <img height=150 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
             </td>
            <td>
-<img width="300px" height="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
+               <img height=150 width="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
            </td>
         </tr>
     </table>
