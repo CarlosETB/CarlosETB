@@ -48,3 +48,6 @@ Hi, I'm Carlos.
     </table>
 </center>
 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
+
