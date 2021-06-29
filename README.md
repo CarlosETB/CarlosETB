@@ -37,6 +37,7 @@ Hi, I'm Carlos.
 <center>
     <img align="left" src="https://activity-graph.herokuapp.com/graph?username=CarlosETB&theme=dracula&bg_color=20232a&hide_border=true&bg_color=FFFF0000" width="65%" />
     <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
+    <br />
     <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosETB&theme=dracula&border=61dafb&hide_border=true&background=FFFF0000" />
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=CarlosETB&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&bg_color=FFFF0000" />
 </center>
