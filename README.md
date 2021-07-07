@@ -33,7 +33,7 @@ Hi, I'm Carlos.
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&link=https://github.com/CarlosETB/)](https://github.com/CarlosETB?tab=repositories&q=&type=&language=)
-[![Styled-Component](https://img.shields.io/badge/-Styled--Component-DB7093?style=flat-square&logo=styled-components&logoColor=FFF/)](https://styled-components.com/)
+[![Styled-Component](https://img.shields.io/badge/-Styled--Component-DB7093?style=flat-square&logo=styled-components&logoColor=FFF)](https://styled-components.com/)
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
