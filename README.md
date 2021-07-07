@@ -47,6 +47,7 @@ Hi, I'm Carlos.
 [![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=FFF)](https://expo.io/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=FFF)](https://firebase.google.com/)
 [![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=FFF)](https://leafletjs.com/)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=FFF)](https://www.markdownguide.org/)
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
