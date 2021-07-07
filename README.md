@@ -49,6 +49,8 @@ Hi, I'm Carlos.
 [![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=FFF)](https://leafletjs.com/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=FFF)](https://www.markdownguide.org/)
 
+## Github Stats
+
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
 </p>
