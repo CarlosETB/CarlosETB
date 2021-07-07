@@ -29,6 +29,7 @@ Hi, I'm Carlos.
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)](https://redux.js.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/-GitHub-0052CC?style=flat-square&logo=bitbucket)](https://bitbucket.org/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM)](https://npmjs.com/)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)](https://yarnpkg.com/)
 [![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js)](https://nextjs.org/)
