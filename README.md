@@ -19,7 +19,7 @@ Hi, I'm Carlos.
 
 ## Knowledge and Tools
 
-[![JavaScript]:(https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![JavaScript:](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://dev.w3.org/html5/spec-LC/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
