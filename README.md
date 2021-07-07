@@ -36,7 +36,8 @@ Hi, I'm Carlos.
 [![Styled-Component](https://img.shields.io/badge/-Styled--Component-DB7093?style=flat-square&logo=styled-components&logoColor=FFF)](https://styled-components.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=FFF)](https://vercel.com/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=FFF)](https://vercel.com/)
-[![Jira](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=FFF)](https://trello.com/)
+[![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=FFF)](https://trello.com/)
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
