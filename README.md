@@ -3,7 +3,7 @@
 <img width="300px" height="230px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosETB&hide=Java,c%23&count_private=true&hide_border=true&theme=dracula&bg_color=FFFF0000" /> 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/carlos_tonholi) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlostonholi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-tonholi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:carloseduardotonholi@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/carlostonholi/)
 
