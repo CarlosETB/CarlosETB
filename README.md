@@ -44,6 +44,7 @@ Hi, I'm Carlos.
 [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=FFF)](https://material-ui.com/)
 [![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=FFF)](https://ant.design/)
 [![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=FFF)](https://bulma.io/)
+[![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=FFF)](https://expo.io/)
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
