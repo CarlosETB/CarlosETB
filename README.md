@@ -42,6 +42,8 @@ Hi, I'm Carlos.
 [![Json](https://img.shields.io/badge/-Json-000000?style=flat-square&logo=json&logoColor=FFF)](https://www.json.org/)
 [![React-Router](https://img.shields.io/badge/-React--Router-CA4245?style=flat-square&logo=react-router&logoColor=FFF)](https://www.npmjs.com/package/react-router/)
 [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=FFF)](https://material-ui.com/)
+[![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=FFF)](https://ant.design/)
+[![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=FFF)](https://bulma.io/)
 
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosETB&column=4&theme=dracula&margin-w=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" />
