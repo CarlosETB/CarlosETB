@@ -27,7 +27,6 @@ Hi, I'm Carlos.
 [![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![React-Native](https://img.shields.io/badge/-React--Native-05a5d1?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-999999?style=flat-square&logo=reduxsaga&logoColor=white)](https://redux-saga.js.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)](https://bitbucket.org/)
